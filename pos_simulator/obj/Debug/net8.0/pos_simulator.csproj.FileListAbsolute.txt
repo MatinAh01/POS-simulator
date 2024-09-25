@@ -1,0 +1,14 @@
+C:\Users\Matin\Desktop\pos_simulator\bin\Debug\net8.0\pos_simulator.exe
+C:\Users\Matin\Desktop\pos_simulator\bin\Debug\net8.0\pos_simulator.deps.json
+C:\Users\Matin\Desktop\pos_simulator\bin\Debug\net8.0\pos_simulator.runtimeconfig.json
+C:\Users\Matin\Desktop\pos_simulator\bin\Debug\net8.0\pos_simulator.dll
+C:\Users\Matin\Desktop\pos_simulator\bin\Debug\net8.0\pos_simulator.pdb
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\pos_simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\pos_simulator.AssemblyInfoInputs.cache
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\pos_simulator.AssemblyInfo.cs
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\pos_simulator.csproj.CoreCompileInputs.cache
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\pos_simulator.dll
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\refint\pos_simulator.dll
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\pos_simulator.pdb
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\pos_simulator.genruntimeconfig.cache
+C:\Users\Matin\Desktop\pos_simulator\obj\Debug\net8.0\ref\pos_simulator.dll
