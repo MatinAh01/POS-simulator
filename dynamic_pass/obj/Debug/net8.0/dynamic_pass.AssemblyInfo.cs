@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dynamic_pass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef03dd4d3c3c048db3c8dd19c7ddba3eeb25343f")]
 [assembly: System.Reflection.AssemblyProductAttribute("dynamic_pass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dynamic_pass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

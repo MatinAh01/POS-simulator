@@ -7,7 +7,7 @@ namespace pos_simulator
 {
     public class Operations : IOperations
     {
-        public Transactions Transactions { get; set; }
+        public Transactions Transactions;
         public Operations(Transactions transactions)
         {
             Transactions = transactions;

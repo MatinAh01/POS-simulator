@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matin\\Desktop\\pos_simulator\\pos_simulator.csproj": {}
+    "C:\\Users\\Matin\\Desktop\\main\\pos_simulator\\pos_simulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matin\\Desktop\\pos_simulator\\pos_simulator.csproj": {
+    "C:\\Users\\Matin\\Desktop\\main\\pos_simulator\\pos_simulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matin\\Desktop\\pos_simulator\\pos_simulator.csproj",
+        "projectUniqueName": "C:\\Users\\Matin\\Desktop\\main\\pos_simulator\\pos_simulator.csproj",
         "projectName": "pos_simulator",
-        "projectPath": "C:\\Users\\Matin\\Desktop\\pos_simulator\\pos_simulator.csproj",
+        "projectPath": "C:\\Users\\Matin\\Desktop\\main\\pos_simulator\\pos_simulator.csproj",
         "packagesPath": "C:\\Users\\Matin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matin\\Desktop\\pos_simulator\\obj\\",
+        "outputPath": "C:\\Users\\Matin\\Desktop\\main\\pos_simulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matin\\AppData\\Roaming\\NuGet\\NuGet.Config"

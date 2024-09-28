@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matin\\Desktop\\dynamic_pass\\dynamic_pass.csproj",
+      "projectUniqueName": "C:\\Users\\Matin\\Desktop\\main\\dynamic_pass\\dynamic_pass.csproj",
       "projectName": "dynamic_pass",
-      "projectPath": "C:\\Users\\Matin\\Desktop\\dynamic_pass\\dynamic_pass.csproj",
+      "projectPath": "C:\\Users\\Matin\\Desktop\\main\\dynamic_pass\\dynamic_pass.csproj",
       "packagesPath": "C:\\Users\\Matin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matin\\Desktop\\dynamic_pass\\obj\\",
+      "outputPath": "C:\\Users\\Matin\\Desktop\\main\\dynamic_pass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matin\\AppData\\Roaming\\NuGet\\NuGet.Config"
